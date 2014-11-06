@@ -20,6 +20,10 @@ public class Dummy extends BasicExecuteAction {
 
 		return Constants.FORWARD_SUCCESS;
 	}
+	
+	protected String Dummy() {
+		return false;
+	}
 
 }
 
